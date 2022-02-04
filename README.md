@@ -1,4 +1,6 @@
-### Hi there 👋
+## Greetings Earthlings 👽😁
+
+my name is jackson, I am a college student majoring in computer science
 
 🔭 I’m currently working on a discord server moderation bot <br>
 🌱 I’m currently learning: Javascript <br>
