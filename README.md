@@ -1,6 +1,6 @@
 ## Greetings Earthlings 👽😁
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yandhi)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yandhi&show_icons=true&theme=dark)]
 
 my name is jackson, I am a college student majoring in computer science
 
